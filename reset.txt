@@ -1,4 +1,0 @@
-reset > reset.txt
-oi
-git add .
-
