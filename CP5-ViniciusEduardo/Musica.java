@@ -131,7 +131,7 @@ public class Musica {
                 new Musica("Artista genérico", "Veigh", 145, "Trap"),
                 new Musica("Talvez você precise de mim", "Veigh", 152, "Trap"),
                 new Musica("Pela última vez", "Menos é Mais", 186, "Pagode"),
-                new Musica("P do pegado", "Menos é Mais", 175, "Pagode"),
+                new Musica("P do pecado", "Menos é Mais", 175, "Pagode"),
                 new Musica("Aquele lugar", "Menos é Mais", 225, "Pagode"),
                 new Musica("Estilo Cachorro", "Racionais MC's", 378, "Hip-Hop"),
                 new Musica("Jesus chorou", "Racionais MC's", 474, "Hip-Hop"),
